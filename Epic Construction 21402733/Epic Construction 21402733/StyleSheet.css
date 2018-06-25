@@ -1,0 +1,61 @@
+﻿/*Master Page*/
+#header {
+    color: #247BA0;
+    text-align: center;
+    font-size: 22px;
+}
+
+/*Navigation Bar*/
+#nav {
+    background-color: #FF1654;
+    padding: 5px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li a {
+    color: #F1FAEE;
+    font-size: 30px;
+    column-width: 5%;
+}
+
+li {
+    display: inline;
+    padding-left: 2px;
+    column-width: 20px;
+}
+
+a {
+    text-decoration: none;
+    margin-left: 100px
+}
+
+li a:hover {
+    background-color: #F3FFBD;
+    color: #FF1654;
+    padding: 1%;
+}
+
+/*Welcome Message*/
+#Welcome {
+    text-align: center;
+}
+
+#AdminLoginTable {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#StaffLoginTable {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#StaffRegisterTable {
+    margin-left: auto;
+    margin-right: auto;
+}
+
